@@ -3,6 +3,10 @@ body {
   margin: 20px;
 }
 
+.square--winning {
+  background-color: rgb(0, 255, 34);
+}
+
 ol, ul {
   padding-left: 30px;
 }
